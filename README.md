@@ -15,18 +15,19 @@ Vue.js와 JSON Server만을 활용해 개발했으며, 사용자에게 연령대
 ## 사용 기술 🛠️  
 
 ### 🔗 협업 도구  
-- GitHub  
-- Figma  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 ### 🖥️ Frontend Framework  
-- Vue.js 3  
-- Vue Router  
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)  
+[![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://router.vuejs.org)
 
 ### 🗃️ Data  
-- JSON Server  
+[![JSON Server](https://img.shields.io/badge/JSON--Server-000000?style=for-the-badge&logo=json&logoColor=white)](https://github.com/typicode/json-server)
 
 ### 📊 Chart  
-- Chart.js  
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org)
+
 
 ---
 
