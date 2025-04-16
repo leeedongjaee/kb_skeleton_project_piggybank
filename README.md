@@ -1,4 +1,4 @@
-# # PiggyBank
+# PiggyBank
 
 ## 프로젝트 기획 의도
 
